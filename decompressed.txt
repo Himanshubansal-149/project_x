@@ -1,1 +1,2 @@
-hlo everyone my name is Himanshu bansal and I am a student of nit Kurukshetra 
+Hlo everyone myself Himanshu from NIT Kurukshetra 
+->this project helps in file compressing and decompressing using hoffman coding 

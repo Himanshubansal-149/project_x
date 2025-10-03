@@ -1,0 +1,10 @@
+# Ignore all exe and output files
+*.exe
+*.out
+*.bin
+*.dat
+*.log
+
+# Ignore all text files except sample.txt
+*.txt
+!sample.txt

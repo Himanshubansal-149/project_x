@@ -1,3 +1,5 @@
+// Function to inititalize and create min_heap 
+
 #include <iostream>
 #include <utility>
 #include <vector>

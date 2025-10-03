@@ -1,2 +1,0 @@
-Hlo everyone myself Himanshu from NIT Kurukshetra 
-->this project helps in file compressing and decompressing using hoffman coding 
